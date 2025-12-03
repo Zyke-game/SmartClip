@@ -1,0 +1,5 @@
+{
+  "name": "SmartClip AI",
+  "description": "An AI-powered video analysis and clipping tool using Gemini 3 Pro. Automatically identifies highlights, generates markdown summaries, and prepares clips for export.",
+  "requestFramePermissions": []
+}
